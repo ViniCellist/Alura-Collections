@@ -40,16 +40,18 @@ namespace CSharpCollections
             aulas[0] = "Trabalhando com Arrays";
             Imprimir(aulas);
 
-            //utilização do Array.IndexOf() - primeiro argumento é o array, segundo arguento é o nome da variavel que irá puxar o índice...
-            //retorna o índice..
-            Console.WriteLine("Aula modelando está no índice " + Array.IndexOf(aulas,aulaModelando));
+            //utilização do Array.IndexOf() = retorna o índice específicado.
+            // * primeiro argumento é o array;
+            // ** segundo arguento é o nome da variavel que irá puxar o índice...;
+            Console.WriteLine("Aula modelando está no índice " + Array.IndexOf(aulas, aulaModelando));
 
-            //utilização do Array.LastIndexOf() - primeiro argumento é o array, segundo arguento é o nome da variavel que irá puxar o índice...
-            //retorna o índice
+            //utilização do Array.LastIndexOf() = retorna o índice específicado.
+            // * primeiro argumento é o array;
+            // ** segundo arguento é o nome da variavel que irá puxar o índice...;
             Console.WriteLine(Array.LastIndexOf(aulas, aulaModelando));
 
-            //utilização do Array.Reverse() - recebe como argumento o array
-            //inverte a ordem dos índices
+            //utilização do Array.Reverse() = inverte os índices do array.
+            // * recebe como argumento o array;
             Array.Reverse(aulas);
             Imprimir(aulas);
 
@@ -57,7 +59,9 @@ namespace CSharpCollections
             Array.Reverse(aulas);
             Imprimir(aulas);
 
-            //utilização do Array.Resize() - primeiro argumento ref + array, segundo argumento é o numero de índices
+            //utilização do Array.Resize() = redimensiona o tamanho do array
+            // * primeiro argumento ref + array;
+            // ** segundo argumento é o numero de índices;
             Array.Resize(ref aulas, 2);
             Imprimir(aulas);
 
@@ -67,6 +71,34 @@ namespace CSharpCollections
 
             aulas[aulas.Length - 1] = "Conclusão";
             Imprimir(aulas);
+
+            //utilização do Array.Sort() = organiza o array em ordem alfabética
+            Array.Sort(aulas);
+            Imprimir(aulas);
+
+            //criando novo array
+            string[] copia = new string[2];
+
+            //utilização do Array.Copy = faz uma cópia do array.
+            // * primeiro argumento: array a ser copiado;
+            // ** segundo argumento: índice do array a ser copiado;
+            // *** terceiro argumento: array destino a ser gravado a cópia;
+            // **** quarto argumento: índice do array destino;
+            // ***** quinto argumento: tamanho do índice;
+            Array.Copy(aulas, 1, copia, 0, 2);
+            Imprimir(copia);
+
+            //utilização do método .Clone() = copia todo o conteúdo do array;
+            //neste exemplo, o retorno desse método é do tipo Objeto, o `as string` está sendo usando para alterar a tipagem;
+            string[] clone = aulas.Clone() as string[];
+            Imprimir(clone);
+
+            //utilização do método Array.Clear() = limpa os índices do array;
+            // * primeiro argumento: especifica o array a ser acessado;
+            // ** segundo argumento: índice inicial a ser limpado;
+            // *** terceiro argumento: índice final a ser limpado;
+            Array.Clear(clone, 1, 2);
+            Imprimir(clone);
         }
 
         private static void Imprimir(string[] aulas)
