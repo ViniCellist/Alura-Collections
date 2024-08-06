@@ -1,0 +1,15 @@
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\bin\Debug\net8.0\Listas.exe
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\bin\Debug\net8.0\Listas.deps.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\bin\Debug\net8.0\Listas.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\bin\Debug\net8.0\Listas.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\refint\Listas.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Listas\obj\Debug\net8.0\ref\Listas.dll

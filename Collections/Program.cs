@@ -1,5 +1,4 @@
-﻿
-namespace CSharpCollections
+﻿namespace CSharpCollections
 {
     class Program
     {
