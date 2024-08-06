@@ -35,7 +35,7 @@ namespace A23ListasDeObjetos
         }
     }
 
-    class Aula: IComparable
+    public class Aula: IComparable
     {
         private string titulo;
         private int tempo;
