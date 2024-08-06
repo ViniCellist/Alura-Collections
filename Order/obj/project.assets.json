@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Object.dll": {}
         }
+      },
+      "ReadOnly/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Object": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReadOnly.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReadOnly.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,16 @@
       "type": "project",
       "path": "../Object/Object.csproj",
       "msbuildProject": "../Object/Object.csproj"
+    },
+    "ReadOnly/1.0.0": {
+      "type": "project",
+      "path": "../ReadOnly/ReadOnly.csproj",
+      "msbuildProject": "../ReadOnly/ReadOnly.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Object >= 1.0.0"
+      "ReadOnly >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\ReadOnly\\ReadOnly.csproj",
-      "projectName": "ReadOnly",
-      "projectPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\ReadOnly\\ReadOnly.csproj",
+      "projectUniqueName": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\Order\\Order.csproj",
+      "projectName": "Order",
+      "projectPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\Order\\Order.csproj",
       "packagesPath": "C:\\Users\\vsdua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\ReadOnly\\obj\\",
+      "outputPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\Order\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +77,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\Object\\Object.csproj": {
-              "projectPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\Object\\Object.csproj"
+            "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\ReadOnly\\ReadOnly.csproj": {
+              "projectPath": "C:\\Users\\vsdua\\OneDrive\\Área de Trabalho\\Dev\\Alura-Collections\\ReadOnly\\ReadOnly.csproj"
             }
           }
         }
