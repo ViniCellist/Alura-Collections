@@ -3,11 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{768A89DE-F1D7-422A-BDDC-38FD4673C859}|..\\Listas\\Listas.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1DC8DA3-D8A5-4F64-BE05-9F03E9F67F44}|..\\ReadOnly\\ReadOnly.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\readonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98FAFCA-95B1-4FD4-BB42-50E3178EC0F9}|Collections.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98FAFCA-95B1-4FD4-BB42-50E3178EC0F9}|Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1DC8DA3-D8A5-4F64-BE05-9F03E9F67F44}|..\\ReadOnly\\ReadOnly.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\readonly\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,32 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Listas\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Listas\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Listas\\Program.cs",
-              "RelativeToolTip": "..\\Listas\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAjwAcAAAAvAAAA",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\ReadOnly\\Curso.cs",
+              "RelativeDocumentMoniker": "..\\ReadOnly\\Curso.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\ReadOnly\\Curso.cs",
+              "RelativeToolTip": "..\\ReadOnly\\Curso.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T17:51:36.292Z",
+              "WhenOpened": "2024-08-06T20:40:08.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\ReadOnly\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ReadOnly\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\ReadOnly\\Program.cs",
+              "RelativeToolTip": "..\\ReadOnly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T13:41:08.761Z",
+              "WhenOpened": "2024-08-06T20:34:18.039Z",
               "EditorCaption": ""
             }
           ]
