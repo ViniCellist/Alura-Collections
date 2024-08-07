@@ -30,6 +30,11 @@
 
             alunos.Add("Fabio Gushiken");
             Console.WriteLine(string.Join(",", alunos));
+
+            List<string> alunosEmLista = new List<string>(alunos);
+
+            alunosEmLista.Sort();
+            Console.WriteLine(string.Join(",", alunosEmLista));
         }
     }
 }
