@@ -1,15 +1,20 @@
 ﻿using A23ListasDeObjetos;
-using System;
-using System.Collections.Generic;
+using Models;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ReadOnly
 {
     public class Curso
     {
+		private ISet<Aluno> alunos = new HashSet<Aluno>();
+		public IList<Aluno> Alunos
+		{
+			get
+			{
+				return new ReadOnlyCollection<Aluno>(alunos.ToList());
+			}
+		}
+
 		private IList<Aula> aulas;
 
 		public IList<Aula> Aulas
@@ -65,6 +70,11 @@ namespace ReadOnly
         public override string ToString()
         {
 			return $"Curso: {nome}, Tempo: {TempoTotal}, Aulas: {string.Join(",", aulas)}";
+        }
+
+        public void Matricula(Aluno aluno)
+        {
+			alunos.Add(aluno);
         }
     }
 }
