@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F14C96D9-1B2F-4571-BA00-30F97333DB3A}|..\\Models\\Models.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C96D9-1B2F-4571-BA00-30F97333DB3A}|..\\Models\\Models.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C593994-784F-4B38-8813-DB157D4E15EB}|..\\Dictionary\\Dictionary.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,28 +21,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "..\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Models\\Aluno.cs",
-              "RelativeToolTip": "..\\Models\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T18:26:39.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Models\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Models\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Models\\Program.cs",
-              "RelativeToolTip": "..\\Models\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Dictionary\\Program.cs",
+              "RelativeToolTip": "..\\Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:38:45.686Z",
+              "WhenOpened": "2024-08-07T18:55:01.573Z",
               "EditorCaption": ""
             }
           ]
