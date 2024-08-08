@@ -23,7 +23,7 @@
             var d4 = dias.AddFirst("quarta");
             Console.WriteLine("d4.Value" + d4.Value);
 
-            dias.AddBefore(d4, "segunda");
+            var d2 = dias.AddBefore(d4, "segunda");
         }
     }
 }
