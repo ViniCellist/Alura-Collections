@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sets")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("A53Queue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6012f91771c5d46ff1a112f5707602c3e951888")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sets")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sets")]
+[assembly: System.Reflection.AssemblyProductAttribute("A53Queue")]
+[assembly: System.Reflection.AssemblyTitleAttribute("A53Queue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
