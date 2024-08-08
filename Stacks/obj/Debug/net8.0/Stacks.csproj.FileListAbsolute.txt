@@ -1,0 +1,15 @@
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\bin\Debug\net8.0\Stacks.exe
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\bin\Debug\net8.0\Stacks.deps.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\bin\Debug\net8.0\Stacks.runtimeconfig.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\bin\Debug\net8.0\Stacks.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\bin\Debug\net8.0\Stacks.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfo.cs
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.sourcelink.json
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\refint\Stacks.dll
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.pdb
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\Stacks.genruntimeconfig.cache
+C:\Users\Life Connection\Documents\GitHub\Alura-Collections\Stacks\obj\Debug\net8.0\ref\Stacks.dll
