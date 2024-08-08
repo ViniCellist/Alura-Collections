@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44F41547-4CDD-4C1D-B06F-F207153B37D7}|..\\Stacks\\Stacks.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27703188-F5D2-4249-919F-640FFDD47BC6}|..\\A53Queue\\A53Queue.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\a53queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Stacks\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Stacks\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Stacks\\Program.cs",
-              "RelativeToolTip": "..\\Stacks\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\A53Queue\\Program.cs",
+              "RelativeDocumentMoniker": "..\\A53Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\A53Queue\\Program.cs",
+              "RelativeToolTip": "..\\A53Queue\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:55:17.277Z",
+              "WhenOpened": "2024-08-08T17:19:24.401Z",
               "EditorCaption": ""
             }
           ]
