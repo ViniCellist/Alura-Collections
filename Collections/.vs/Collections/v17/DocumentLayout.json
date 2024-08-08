@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C593994-784F-4B38-8813-DB157D4E15EB}|..\\Dictionary\\Dictionary.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79FE0F46-B305-42BA-9981-21DE42528C2E}|..\\LinkedList\\LinkedList.csproj|c:\\users\\life connection\\documents\\github\\alura-collections\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Dictionary\\Program.cs",
-              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\Dictionary\\Program.cs",
-              "RelativeToolTip": "..\\Dictionary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Life Connection\\Documents\\GitHub\\Alura-Collections\\LinkedList\\Program.cs",
+              "RelativeToolTip": "..\\LinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T18:55:01.573Z",
+              "WhenOpened": "2024-08-08T13:28:48.905Z",
               "EditorCaption": ""
             }
           ]
